@@ -1,5 +1,5 @@
-## Objective:
-# The report dives into critical loan metrics, tracking dynamic changes over time to enable data-driven decisions, monitor portfolio health, and unveil trends guiding future lending strategies.
+# Objective:
+## The report dives into critical loan metrics, tracking dynamic changes over time to enable data-driven decisions, monitor portfolio health, and unveil trends guiding future lending strategies.
 🛠️ Project Highlights:
 ## SQL Server :
 .Efficient Data Loading: Streamlined the data loading process into Microsoft SQL Server.
@@ -7,10 +7,15 @@
 .Meticulously documented all values for thorough verification.
 ## Power BI :
 .Seamless Data Import: Transferred data from SQL Server to Power BI for in-depth analysis.
+
 .Data Integrity Assurance: Ensured data integrity through meticulous scrutiny, refining the structure, and validating data types for a robust dataset.
+
 .DAX Magic: Leveraged Data Analysis Expressions (DAX) for powerful measures, enhancing analytical capabilities.
+
 .Visual Storytelling: Brought insights to life with visually appealing charts, including KPI cards, donut charts for proportional representations, area charts to highlight temporal trends, bar charts for clear category-wise comparisons, and a map visualization for effective regional performance representation.
+
 .Generated comprehensive reports offering a holistic view of the analyzed data.
+
 
 ## 💡 Insights from the Bank Loan Report:
 .Loan Application Overview:
