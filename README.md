@@ -1,3 +1,12 @@
+# Bank Loan Analysis
+
+## PowerBI Dashboard
+
+![Screenshot 2024-02-10 130112](https://github.com/Abhinandanroy0003/Bank_loan_Analysis/assets/122961957/f63690f2-1052-4ad4-b69f-30d385726d91)
+
+![Screenshot 2024-02-10 130517](https://github.com/Abhinandanroy0003/Bank_loan_Analysis/assets/122961957/481cf684-3bc9-49b5-87a7-c30e2ce9f526)
+
+
 # Objective:
 ## The report dives into critical loan metrics, tracking dynamic changes over time to enable data-driven decisions, monitor portfolio health, and unveil trends guiding future lending strategies.
 🛠️ Project Highlights:
